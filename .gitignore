@@ -1,0 +1,21 @@
+
+# generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+output/
